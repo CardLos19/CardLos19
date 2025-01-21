@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CardLos19
+- 👋 Hi, I’m @CardLos
 - 👀 I’m interested in Computer Science and Technology
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
